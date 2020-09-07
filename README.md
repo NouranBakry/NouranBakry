@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello World 👋
+
+- I'm currently learning ruby and experimenting with react.js. I am looking for a new cool gig. Follow me on twitter for updates on 100DaysOfCode.
 
 <!--
 **NouranBakry/NouranBakry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
