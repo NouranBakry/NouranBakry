@@ -1,8 +1,6 @@
 ### Hello World 👋
 
-I'm currently learning JavaScript and react.js. I am looking for a new cool gig. Follow me on twitter for updates on my journey. 😻
-Check out this app I created: https://unwind-unplug.netlify.app
-
+I'm currently learning JavaScript and react.js. I am looking for a new cool gig.
 <!--
 **NouranBakry/NouranBakry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
