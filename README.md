@@ -2,8 +2,6 @@
 
 - 🔭 I’m currently working on my portfolio.
 - ⚡ Making changes to unwind-unplug.netlify.app
-- 🌱 problem solving and interview prep on leetcode 
-
 <!--
 **NouranBakry/NouranBakry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
