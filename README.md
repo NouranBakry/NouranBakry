@@ -1,4 +1,4 @@
-### Hello World 👋
+### Hello 👋
 - 😄 Pronouns: She/Her
 - 📫 How to reach me: [LinkedIn](https://linkedin.com/in/nouran-bakry)
 
