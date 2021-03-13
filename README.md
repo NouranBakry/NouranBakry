@@ -1,5 +1,6 @@
 ### Hello World 👋
-
+- 😄 Pronouns: She/Her
+- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/nouran-bakry)
 
 <!--
 **NouranBakry/NouranBakry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
