@@ -22,5 +22,5 @@ I am Nouran. I love building cool things and I love learning new technologies. I
 - 🧚🏻‍♀️ I am a full time fairy. I love nature and animals 🍀 I also love to make music and art 🔮
 - 🔭 Currently working on several projects in Python and JavaScript. 
 - 🌱 I am currently learning node and building a full stack app. I am also adding features to [unwind](https://github.com/NouranBakry/unwind)
-- 📫 You can reach out to me via [email](mailto:nouranaymanbakry@gmail.com) or [linkedIn](https://www.linkedin.com/in/nouran-bakry/)
+- 📫 You can reach out to me via [linkedIn](https://www.linkedin.com/in/nouran-bakry/)
 - 👯 I’m looking to collaborate on a non-profit project of good impact and I am also open to volunteer.
