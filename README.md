@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Hi Hi
+## Hi Hi 🙋🏻‍♀️
 I am Nouran. I love building cool things and I love learning new technologies. I enjoy writing code and writing about code. 
 
 - 🧚🏻‍♀️ I am a full time fairy. I love nature and animals 🍀 I also love to make music and art 🔮
