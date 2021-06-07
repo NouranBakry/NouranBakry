@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 I am Nouran. I love building cool things and I love learning new technologies. I enjoy writing code and writing about code. 
 
 - 🧚🏻‍♀️ I am a full time fairy. I love nature and animals 🍀 I also love to make music and art 🔮
-- 🔭 Currently working on several projects in Python and JavaScript . 
+- 🔭 Currently working on several projects in Python and JavaScript. 
 - 🌱 I am currently learning node and building a full stack app.
 - 📫 You can reach out to me on [linkedIn](https://www.linkedin.com/in/nouran-bakry/)
 - 👯 I’m looking to collaborate on a non profit project of good impact and I am also open to volunteer.
