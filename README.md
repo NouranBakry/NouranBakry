@@ -23,4 +23,4 @@ I am Nouran. I love building cool things and I love learning new technologies. I
 - 🔭 Currently working on several projects in Python and JavaScript. 
 - 🌱 I am currently learning node and building a full stack app.
 - 📫 You can reach out to me on [linkedIn](https://www.linkedin.com/in/nouran-bakry/)
-- 👯 I’m looking to collaborate on a non profit project of good impact and I am also open to volunteer.
+- 👯 I’m looking to collaborate on a non-profit project of good impact and I am also open to volunteer.
